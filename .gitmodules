@@ -1,0 +1,6 @@
+[submodule "EchoPay-Processor"]
+	path = EchoPay-Processor
+	url = git@github.com:kbdemiranda/EchoPay-Processor.git
+[submodule "EchoPay"]
+	path = EchoPay
+	url = git@github.com:kbdemiranda/EchoPay.git
